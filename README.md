@@ -25,6 +25,7 @@ La finalitat és identificar què ja havíeu previst, valorar com us ha funciona
 | 11 · The second feature phase | [Conceptes, segona fase d'AgentClinic i contrast amb la vostra metodologia](llicons/11-the-second-feature-phase.md) |
 | 12 · The MVP | [Conceptes, experiment d'AgentClinic i contrast amb la vostra metodologia](llicons/12-the-mvp.md) |
 | 13 · Legacy support | [Conceptes, SDD sobre AgentClinic existent i contrast amb la vostra metodologia](llicons/13-legacy-support.md) |
+| 14 · Build your own workflow | [Conceptes, automatització del procés i contrast amb la vostra metodologia](llicons/14-build-your-own-workflow.md) |
 
 S'hi afegiran les altres fitxes a mesura que es treballin els vídeos.
 
