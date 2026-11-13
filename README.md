@@ -10,7 +10,7 @@ La finalitat és identificar què ja havíeu previst, valorar com us ha funciona
 
 ## Lliurament del contrast
 
-Utilitzeu la [plantilla única de contrast global](lliurament/contrast-global.md): **28 aspectes agrupats en set dominis**, amb previsió inicial, aplicació real, evidències i decisions. Inclou una síntesi final i un pla de millora.
+Utilitzeu la [plantilla de contrast final](lliurament/contrast-global.md), amb tres parts: **la metodologia que vau definir**, **l'experiència sobre la funcionalitat** i **la revisió després del curs**. La metodologia i la seva aplicació tenen la mateixa importància. El contrast se centra en requisits, planificació, treball amb l'agent, validació i integració amb GitHub.
 
 Les preguntes de cada fitxa ajuden a seguir els vídeos. **No cal lliurar també les taules de les fitxes:** les respostes es recullen una sola vegada a la plantilla global.
 
