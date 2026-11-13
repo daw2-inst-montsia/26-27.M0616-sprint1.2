@@ -14,6 +14,7 @@ La finalitat és identificar què ja havíeu previst, valorar com us ha funciona
 |---|---|
 | 01 · Introduction | [Conceptes, diagrames i contrast amb la vostra metodologia](llicons/01-introduccio.md) |
 | 02 · Why spec-driven development? | [Conceptes, diagrames i contrast amb la vostra metodologia](llicons/02-per-que-spec-driven-development.md) |
+| 03 · Workflow overview | [Conceptes, diagrames i contrast amb la vostra metodologia](llicons/03-workflow-overview.md) |
 
 S'hi afegiran les altres fitxes a mesura que es treballin els vídeos.
 
