@@ -16,6 +16,7 @@ La finalitat és identificar què ja havíeu previst, valorar com us ha funciona
 | 02 · Why spec-driven development? | [Conceptes, diagrames i contrast amb la vostra metodologia](llicons/02-per-que-spec-driven-development.md) |
 | 03 · Workflow overview | [Conceptes, diagrames i contrast amb la vostra metodologia](llicons/03-workflow-overview.md) |
 | 04 · Entorn de treball | [Fitxa per emplenar amb la configuració del vostre IDE i agent](llicons/04-entorn-de-treball.md) |
+| 05 · Setup | [Vídeo i frases fonamentals](llicons/05-setup.md) |
 
 S'hi afegiran les altres fitxes a mesura que es treballin els vídeos.
 
@@ -28,6 +29,8 @@ S'hi afegiran les altres fitxes a mesura que es treballin els vídeos.
 Les fitxes de lectura contenen tres apartats: **conceptes clau per dominis**, **mapes o diagrames** i **taula de contrast**. Els termes es mantenen en anglès, amb les explicacions i les traduccions en català.
 
 L'apartat **04 · Entorn de treball** és una excepció: seguirem l'ordre del curs, però cadascú pot triar el seu IDE i agent de programació. La fitxa serveix per documentar-ne la configuració i comprovar que l'entorn està preparat.
+
+L'apartat **05 · Setup** també té un format específic: enllaç al vídeo i síntesi de les frases fonamentals amb marques de temps.
 
 ## Materials i fonts
 
