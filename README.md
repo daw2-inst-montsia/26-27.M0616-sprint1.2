@@ -18,6 +18,7 @@ La finalitat és identificar què ja havíeu previst, valorar com us ha funciona
 | 04 · Entorn de treball | [Fitxa per emplenar amb la configuració del vostre IDE i agent](llicons/04-entorn-de-treball.md) |
 | 05 · Setup | [Vídeo i frases fonamentals](llicons/05-setup.md) |
 | 06 · Creating the Constitution | [Conceptes, exemple AgentClinic i contrast amb la vostra metodologia](llicons/06-creating-the-constitution.md) |
+| 07 · Feature Specification | [Conceptes, exemple Hello Hono i contrast amb la vostra metodologia](llicons/07-feature-specification.md) |
 
 S'hi afegiran les altres fitxes a mesura que es treballin els vídeos.
 
