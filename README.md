@@ -26,6 +26,7 @@ La finalitat és identificar què ja havíeu previst, valorar com us ha funciona
 | 12 · The MVP | [Conceptes, experiment d'AgentClinic i contrast amb la vostra metodologia](llicons/12-the-mvp.md) |
 | 13 · Legacy support | [Conceptes, SDD sobre AgentClinic existent i contrast amb la vostra metodologia](llicons/13-legacy-support.md) |
 | 14 · Build your own workflow | [Conceptes, automatització del procés i contrast amb la vostra metodologia](llicons/14-build-your-own-workflow.md) |
+| 15 · Agent replaceability | [Conceptes, canvi d'agent i contrast amb la vostra metodologia](llicons/15-agent-replaceability.md) |
 
 S'hi afegiran les altres fitxes a mesura que es treballin els vídeos.
 
