@@ -23,6 +23,7 @@ La finalitat és identificar què ja havíeu previst, valorar com us ha funciona
 | 09 · Feature validation | [Conceptes, revisió de Hello Hono i contrast amb la vostra metodologia](llicons/09-feature-validation.md) |
 | 10 · Project replanning | [Conceptes, replanificació d'AgentClinic i contrast amb la vostra metodologia](llicons/10-project-replanning.md) |
 | 11 · The second feature phase | [Conceptes, segona fase d'AgentClinic i contrast amb la vostra metodologia](llicons/11-the-second-feature-phase.md) |
+| 12 · The MVP | [Conceptes, experiment d'AgentClinic i contrast amb la vostra metodologia](llicons/12-the-mvp.md) |
 
 S'hi afegiran les altres fitxes a mesura que es treballin els vídeos.
 
