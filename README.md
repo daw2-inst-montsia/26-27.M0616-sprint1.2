@@ -20,6 +20,7 @@ La finalitat és identificar què ja havíeu previst, valorar com us ha funciona
 | 06 · Creating the Constitution | [Conceptes, exemple AgentClinic i contrast amb la vostra metodologia](llicons/06-creating-the-constitution.md) |
 | 07 · Feature Specification | [Conceptes, exemple Hello Hono i contrast amb la vostra metodologia](llicons/07-feature-specification.md) |
 | 08 · Feature implementation | [Conceptes, implementació de Hello Hono i contrast amb la vostra metodologia](llicons/08-feature-implementation.md) |
+| 09 · Feature validation | [Conceptes, revisió de Hello Hono i contrast amb la vostra metodologia](llicons/09-feature-validation.md) |
 
 S'hi afegiran les altres fitxes a mesura que es treballin els vídeos.
 
