@@ -8,12 +8,6 @@ Contrastar les idees dels vídeos amb la metodologia pròpia per programar amb a
 
 La finalitat és identificar què ja havíeu previst, valorar com us ha funcionat i decidir si introduiríeu millores. Les decisions s'han de justificar amb l'experiència pràctica; també podeu argumentar per què manteniu la vostra metodologia.
 
-## Lliurament del contrast
-
-Utilitzeu la [plantilla de contrast final](lliurament/contrast-global.md), amb tres parts: **la metodologia que vau definir**, **l'experiència sobre la funcionalitat** i **la revisió després del curs**. La metodologia i la seva aplicació tenen la mateixa importància. El contrast se centra en requisits, planificació, treball amb l'agent, validació i integració amb GitHub.
-
-Les preguntes de cada fitxa ajuden a seguir els vídeos. **No cal lliurar també les taules de les fitxes:** les respostes es recullen una sola vegada a la plantilla global.
-
 ## Fitxes
 
 | Apartat | Guia |
